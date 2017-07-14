@@ -1,7 +1,7 @@
 
 Repository showcasing a certain Webpack/Uglify case where media files aren't removed - Relating to https://github.com/webpack/webpack/issues/5251
 
-```javascript
+```bash
 # install dependencies
 yarn install
 
